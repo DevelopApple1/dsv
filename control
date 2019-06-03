@@ -1,0 +1,9 @@
+Package: com.devntnghia.sspd
+Name: SamsungPowerDown
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Turn your boring Power Down view into Samsung's one!
+Maintainer: DevNTNghia
+Author: DevNTNghia
+Section: Tweaks
